@@ -1,5 +1,9 @@
 # IWRY
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/smicallef/spiderfoot/master/LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.7+-green)](https://www.python.org)
+[![Stable Release](https://img.shields.io/badge/version-4.0-blue.svg)](https://github.com/smicallef/spiderfoot/releases/tag/v4.0)
+
 ### IRC Client written in Python.
 
 This was forked from *somewhere*, i don't remember where. Very simple to use, lightweight. To use this, you obviously need to have python installed. 
