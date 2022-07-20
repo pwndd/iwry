@@ -1,8 +1,8 @@
 # IWRY
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/smicallef/spiderfoot/master/LICENSE)
+[![License](https://img.shields.io/badge/license-gnu-blue.svg)](https://raw.githubusercontent.com/pwndd/master/LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.7+-green)](https://www.python.org)
-[![Stable Release](https://img.shields.io/badge/version-4.0-blue.svg)](https://github.com/smicallef/spiderfoot/releases/tag/v4.0)
+[![Stable Release](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/pwndd/iwry/releases)
 
 ### IRC Client written in Python.
 
