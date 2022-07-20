@@ -28,7 +28,7 @@ cd iwry
 ### How to use IWRY
 
 ```sh
-./irwy.py <username> <channel>
+./iwry.py <username> <channel>
 ```
 
 `<username>` is your username which will be used by default. By running the command again with a different username, your username will change. `<channel>` is the channel you want to join. (eg. channelname or #channelname)
