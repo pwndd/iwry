@@ -6,16 +6,16 @@ This was forked from *somewhere*, i don't remember where. Very simple to use, li
 
 # Let's install IWRY
 
-### Install Python on Arch.
+### Install Python and Git on Arch.
 
 ```sh
-sudo pacman -S python python3-pip
+sudo pacman -S python python3-pip git
 ```
 
-### Install Python on Debian/Ubuntu.
+### Install Python and Git on Debian/Ubuntu.
 
 ```sh
-sudo apt install python python3-pip
+sudo apt install python python3-pip git
 ```
 
 ### Install IWRY
