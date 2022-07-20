@@ -27,4 +27,4 @@ cd iwry
 
 `<username>` is your username which will be used by default. By running the comnmand again with a different username, your username will change. `<channel>`
 
-> If there are any issues, i'll be sure to fix them asap.
+### If there are any issues, i'll be sure to fix them asap.
