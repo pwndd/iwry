@@ -13,13 +13,13 @@ This was forked from *somewhere*, i don't remember where. Very simple to use, li
 ### Install Python and Git on Arch.
 
 ```sh
-sudo pacman -S python python3-pip git
+sudo pacman -S python3 python-pip git
 ```
 
 ### Install Python and Git on Debian/Ubuntu.
 
 ```sh
-sudo apt install python python3-pip git
+sudo apt install python3 python-pip git
 ```
 
 ### Install IWRY
@@ -32,7 +32,7 @@ cd iwry
 ### How to use IWRY
 
 ```sh
-./iwry.py <username> <channel>
+python iwry.py <username> <channel>
 ```
 
 `<username>` is your username which will be used by default. By running the command again with a different username, your username will change. `<channel>` is the channel you want to join. (eg. channelname or #channelname)
