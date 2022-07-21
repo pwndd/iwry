@@ -25,6 +25,7 @@ sudo apt install python3 python-pip git
 ### Install IWRY
 
 ```sh
+pip install irc
 git clone https://github.com/avunit/iwry
 cd iwry
 ```
